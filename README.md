@@ -31,3 +31,12 @@ First, clone the repository to your local machine:
 ```bash
 git clone //github.com/Abhimanyu254a/Abhimanyu-Sharma-Wasserstoff-innovation-Task
 cd Abhimanyu-Sharma-Wasserstoff-innovation-Task
+
+### 2.Download all the Version for the Project
+run this command
+```bash
+pip install -r requirement.txt
+
+### 3.Now run the program
+
+### 4.There are some things code and also some things I don't done but I will do my best to complete it 
