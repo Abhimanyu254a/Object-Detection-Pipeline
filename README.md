@@ -25,18 +25,11 @@ The project is built using the following technologies:
 ---
 
 ## Installation
-
-### 1. Clone the Repository
+There are some things code and also some things I don't done but I will do my best to complete it
+### Clone the Repository
 First, clone the repository to your local machine:
 ```bash
-git clone //github.com/Abhimanyu254a/Abhimanyu-Sharma-Wasserstoff-innovation-Task
-cd Abhimanyu-Sharma-Wasserstoff-innovation-Task
-
-### 2.Download all the Version for the Project
-run this command
-```bash
+git clone //github.com/Abhimanyu254a/Abhimanyu-Sharma-Wasserstoff-innovation-Task-intern-AITask
+cd Abhimanyu-Sharma-Wasserstoff-innovation-intern-AITask
 pip install -r requirement.txt
-
-### 3.Now run the program
-
-### 4.There are some things code and also some things I don't done but I will do my best to complete it 
+ 
