@@ -29,7 +29,7 @@ There are some things code and also some things I don't done but I will do my be
 ### Clone the Repository
 First, clone the repository to your local machine:
 ```bash
-git clone //github.com/Abhimanyu254a/Abhimanyu-Sharma-Wasserstoff-innovation-Task-intern-AITask
-cd Abhimanyu-Sharma-Wasserstoff-innovation-intern-AITask
+git clone //github.com/Object-Detection-Pipeline
+cd Object-Detection-Pipeline
 pip install -r requirement.txt
  
