@@ -1,4 +1,4 @@
-# Image Segmentation, Object Detection, and Object Extraction Pipeline
+# Object-Detection-Pipeline
 
 ## Overview
 This project provides an end-to-end pipeline that integrates **image segmentation**, **object detection**, **object extraction**, and **text extraction**. The pipeline uses deep learning models such as **Mask R-CNN** and **Faster R-CNN** to detect and segment objects from images, extract relevant information, and identify any text present within the objects using **Tesseract OCR**.
